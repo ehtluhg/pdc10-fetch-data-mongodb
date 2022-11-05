@@ -1,0 +1,17 @@
+{
+    "name": "user/pdc10-fetch-data-mongodb",
+    "autoload": {
+        "psr-4": {
+            "User\\Pdc10FetchDataMongodb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehtluhg",
+            "email": "dy.gabrielrhobert@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
